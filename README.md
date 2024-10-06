@@ -1,6 +1,6 @@
 # Retro
 
-Play retro games from Nintendo, NeoGeo and more.
+Play retro games from Nintendo, NeoGeo and more, using your browser!.
 
 
 ![Logo](https://i.imgflip.com/95sj2x.jpg)
